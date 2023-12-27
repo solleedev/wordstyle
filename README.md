@@ -1,9 +1,9 @@
 <div align="center">
 <img src="public/text.svg" alt="Wordstyle"/>
 
-# Hide your writing style
+# Anonymise your writing style
 
-Wordstyle is a browser extension which uses large language models to rewrite your text
+Wordstyle is a browser extension which uses large language models to rewrite your text.
 </div>
 
 > [!WARNING]
